@@ -1,0 +1,112 @@
+[
+    {
+        "condition": "Used Like New",
+        "quantity": 1,
+        "author": "Osumu Dazai",
+        "price": 13.99,
+        "seller asuID": 4321,
+        "title": "No Longer Human",
+        "published year": 2014,
+        "category": "English"
+    },
+    {
+        "condition": "Moderately Used",
+        "quantity": 3,
+        "author": "Madeline Miller",
+        "price": 15.99,
+        "seller asuID": 2333,
+        "title": "Circe",
+        "published year": 2023,
+        "category": "History"
+    },
+    {
+        "condition": "Heavily Used",
+        "quantity": 2,
+        "author": "Stephen Hawking",
+        "price": 9.99,
+        "seller asuID": 2333,
+        "title": "A Brief History of Time",
+        "published year": 2020,
+        "category": "Science"
+    },
+    {
+        "condition": "Used Like New",
+        "quantity": 2,
+        "author": "David Patrick",
+        "price": 50,
+        "seller asuID": 6863,
+        "title": "Art of Problem Solving Calculus",
+        "published year": 2015,
+        "category": "Mathematics"
+    },
+    {
+        "condition": "Moderately Used",
+        "quantity": 1,
+        "author": "John Berger",
+        "price": 20.33,
+        "seller asuID": 4321,
+        "title": "Ways of Seeing",
+        "published year": 2007,
+        "category": "Art"
+    },
+	{
+	    "condition": "Well Worn",
+	    "quantity": 3,
+	    "author": "George Orwell",
+	    "price": 14.00,
+	    "seller asuID": 8765,
+	    "title": "1984",
+	    "published year": 1949,
+	    "category": "English"
+	},	
+	{
+		"condition": "Moderately Used",
+		"quantity": 1,
+		"author": "F. Scott Fitzgerald",
+		"price": 10.50,
+		"seller asuID": 4321,
+		"title": "The Great Gatsby",
+		"published year": 1925,
+	    "category": "English"
+	},
+	{
+		"condition": "Well Worn",
+		"quantity": 4,
+	    "author": "J.K. Rowling",
+		"price": 12.75,
+		"seller asuID": 1357,
+		"title": "Harry Potter and the Sorcerer's Stone",
+		"published year": 1997,
+		"category": "Fantasy"
+	},
+	{
+		"condition": "Moderately Used",
+		"quantity": 2,
+		"author": "Yuval Noah Harari",
+		"price": 18.50,
+		"seller asuID": 1234,
+		"title": "Sapiens: A Brief History of Humankind",
+		"published year": 2014,
+		"category": "History"
+	},
+	{
+		"condition": "Good",
+		"quantity": 1,
+		"author": "Donald E. Knuth",
+		"price": 49.95,
+		"seller asuID": 2020,
+		"title": "The Art of Computer Programming",
+		"published year": 1997,
+		"category": "Computer"
+	},
+	{
+		"condition": "Moderately Used",
+		"quantity": 1,
+		"author": "John Berger",
+		"price": 20.33,
+		"seller asuID": 4321,
+		"title": "Ways of Seeing",
+		"published year": 2007,
+		"category": "Art"
+	}
+]

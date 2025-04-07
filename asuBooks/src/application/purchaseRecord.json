@@ -1,0 +1,42 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "category": "English",
+    "condition": "Moderately Used",
+    "price": 18.00,
+    "month": "February",
+    "year": 2024
+  },
+  {
+    "title": "World History: Cultures, States, and Societies To 1500",
+    "category": "History",
+    "condition": "Used Like New",
+    "price": 20.00,
+    "month": "January",
+    "year": 2023
+  },
+  {
+    "title": "Principles of Neural Science",
+    "category": "Science",
+    "condition": "Heavily Used",
+    "price": 50.83,
+    "month": "July",
+    "year": 2022
+  },
+  {
+    "title": "Mathematics with Applications",
+    "category": "Mathematics",
+    "condition": "Heavily Used",
+    "price": 50.00,
+    "month": "June",
+    "year": 2020
+  },
+  {
+    "title": "Understanding Comics: the Invisible Art",
+    "category": "Art",
+    "condition": "Used Like New",
+    "price": 33.32,
+    "month": "May",
+    "year": 2021
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Uncovering the Logic of English",
+    "author": "Denise Eide",
+    "published year": 2015,
+    "category": "English",
+    "condition": "Used Like New",
+    "price": 20.00,
+    "seller asuID": 4321
+  },
+  {
+    "title": "The Heaven $ Earth Grocery Store",
+    "author": "James McBride",
+    "published year": 2018,
+    "category": "History",
+    "condition": "Moderately Used",
+    "price": 15.99,
+    "seller asuID": 2333
+  },
+  {
+    "title": "The Physics of Everyday Things",
+    "author": "Multiple Authors",
+    "published year": 2015,
+    "category": "Science",
+    "condition": "Used like New",
+    "price": 15.55,
+    "seller asuID": 2333
+  },
+  {
+    "title": "From Counting to Calculus",
+    "author": "Michael Petras",
+    "published year": 2018,
+    "category": "Mathematics",
+    "condition": "Used Like New",
+    "price": 103.33,
+    "seller asuID": 6863
+  },
+  {
+    "title": "The Art Spirit",
+    "author": "Robert Henri",
+    "published year": 2009,
+    "category": "Art",
+    "condition": "Moderately Used",
+    "price": 20.88,
+    "seller asuID": 4321
+  }
+]

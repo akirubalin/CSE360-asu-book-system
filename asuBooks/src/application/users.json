@@ -1,0 +1,56 @@
+[
+    {
+        "username": "advina",
+        "password": "6672",
+        "role": "Admin",
+        "asuId": "1234"
+    },
+    {
+        "username": "koa",
+        "password": "0101",
+        "role": "Buyer",
+        "asuId": "1002"
+    },
+    {
+        "username": "sophia",
+        "password": "255",
+        "role": "Seller",
+        "asuId": "4321"
+    },
+    {
+        "username": "darz",
+        "password": "111",
+        "role": "Buyer",
+        "asuId": "4200"
+    },
+    {
+        "username": "des",
+        "password": "88728",
+        "role": "Admin",
+        "asuId": "2235"
+    },
+    {
+        "username": "charlie",
+        "password": "58908",
+        "role": "Seller",
+        "asuId": "2333"
+    },
+    {
+        "username": "brayden",
+        "password": "58228",
+        "role": "Buyer",
+        "asuId": "5532"
+    },
+    {
+        "username": "joy",
+        "password": "38882",
+        "role": "Admin",
+        "asuId": "6767"
+    },
+    {
+        "username": "john",
+        "password": "55534",
+        "role": "Seller",
+        "asuId": "6863"
+    } 
+]

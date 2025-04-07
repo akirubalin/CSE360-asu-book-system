@@ -1,0 +1,37 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "category": "English",
+    "condition": "Moderately Used",
+    "price": 18.00,
+    "seller Id": 4321
+  },
+  {
+    "title": "World History: Cultures, States, and Societies To 1500",
+    "category": "History",
+    "condition": "Used Like New",
+    "price": 20.00,
+    "seller Id": 2333
+  },
+  {
+    "title": "Principles of Neural Science",
+    "category": "Science",
+    "condition": "Heavily Used",
+    "price": 50.83,
+    "seller Id": 6863
+  },
+  {
+    "title": "Mathematics with Applications",
+    "category": "Mathematics",
+    "condition": "Heavily Used",
+    "price": 50.00
+    "seller Id": 4321
+  },
+  {
+    "title": "Understanding Comics: the Invisible Art",
+    "category": "Art",
+    "condition": "Used Like New",
+    "price": 33.32
+    "seller Id": 2333
+  }
+]
